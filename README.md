@@ -1,5 +1,6 @@
 # Naive Bayes
 <h4><i>This program was part of an assignment for CSE 5334 Data Mining at University of Texas at Arlington</i></h4>
+( Also if you are a student taking CSE 5334 at UTA, and you are blatantly copying the code, kindly know that you might be caught for plagiarism. Copy at your own risk)
  <br>
 <br>
 <b>We are assuming that the labels remain to 0 and 1, and the training and testing datasets are created in
